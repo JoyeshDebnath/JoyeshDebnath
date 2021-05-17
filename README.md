@@ -17,4 +17,7 @@ Welcome to my Github page:😊😊😊😊
 - 🐱‍🚀Fav Movie:...3 Idiots.
 - 🎂Birthday:...26th march
 - 🎶Fav player:...One and only Lionel Messi.
+- 👀Facebook- ... [FaceBook Profile] (https://www.facebook.com/joyesh.debnath.1)
+- ✨Instagram - ... [Insta Profile](https://www.instagram.com/joyeshdebnath9311/)
+- 😉Funny Quote: ... "EAT...SLEEP....CODE...REPEAT...✌"
 
