@@ -23,7 +23,7 @@ When I'm not coding, you can find me in the Football Ground ⚽ and Gym 🏋️�
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/[joyesh-debnath-549b3b208])
+- [LinkedIn](https://www.linkedin.com/in/joyesh-debnath-549b3b208/)
 - [Email](mailto:[itsmejoyeshdebnath26@gmail.com])
 
 Looking forward to connecting with you! 😄
