@@ -1,24 +1,31 @@
 ![Joyesh Debnath Banner](https://user-images.githubusercontent.com/75598588/118513465-5cace200-b751-11eb-9add-840fca0ccc75.gif)
 
-### Hi there 👋 Myself Joyesh-- aka JD
+# Hi there, I'm [your name] 👋
 
+## About Me
 
+I'm a passionate fullstack developer . I'm proficient in a variety of programming languages and technologies, including JavaScript, React, Node.js. I always strive to learn and explore new tools to stay up-to-date with the latest industry trends. 
 
-Welcome to my Github page:😊😊😊😊
+## Skills
 
-- 🔭 I’m currently working on ... React.js,Javascript,Node.js,Express.js,Mongo Db,(MERN stack projects)😀
-- 🌱 I’m currently learning ...React,Node.js,Express.js and Mongo to beacome more easy with them 🐱‍👤
-- 🐱‍🏍 My Dream ... To work as a SDE in a Big tech Company in future 😀
-- 🤔 I’m looking for ... help with Internship opportunity 😊.
-- 💬 Ask me about ... anything u like .
-- 😎Fav Language: ... A tie between JAVA and JAVASCRIPT..
-- 📫 How to reach me: ...[LinkedIn Profile](https://www.linkedin.com/in/joyesh-debnath-549b3b208/)
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I like to taste new food items,code,watch movies.
-- 🐱‍🚀Fav Movie:...3 Idiots.
-- 🎂Birthday:...26th march
-- 🎶Fav player:...One and only Lionel Messi.
-- 👀Facebook- ... [FaceBook Profile] (https://www.facebook.com/joyesh.debnath.1)
-- ✨Instagram - ... [Insta Profile](https://www.instagram.com/joyeshdebnath9311/)
-- 😉Funny Quote: ... "EAT...SLEEP....CODE...REPEAT...✌"
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Angular
+- Typescript
+- JAVA
+
+## Interests
+
+When I'm not coding, you can find me in the Football Ground ⚽ and Gym 🏋️‍♂️.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/[joyesh-debnath-549b3b208])
+- [Email](mailto:[itsmejoyeshdebnath26@gmail.com])
+
+Looking forward to connecting with you! 😄
+
 
