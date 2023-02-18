@@ -1,6 +1,6 @@
 ![Joyesh Debnath Banner](https://user-images.githubusercontent.com/75598588/118513465-5cace200-b751-11eb-9add-840fca0ccc75.gif)
 
-# Hi there, I'm [Joyesh] 👋
+# Hi there, I'm Joyesh 👋
 
 ## About Me
 
