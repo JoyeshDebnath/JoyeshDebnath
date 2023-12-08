@@ -26,6 +26,15 @@ When I'm not coding, you can find me in the Football Ground ⚽ and Gym 🏋️�
 - [LinkedIn](https://www.linkedin.com/in/joyesh-debnath-549b3b208/)
 - [Email](mailto:[itsmejoyeshdebnath26@gmail.com])
 
+## TODOs for 2024 🚀🚀🚀 : 
+- Next JS
+- JAVA Spring and backend development
+- Socket IO
+- Web RTC
+- +2 MERN Projects
+- Tailwind CSS
+
+
 Looking forward to connecting with you! 😄
 
 
