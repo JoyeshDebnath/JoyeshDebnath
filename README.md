@@ -19,7 +19,7 @@ I'm a passionate fullstack enthusiast who is trying to learn and upgrade each da
 
 ## Interests
 
-When I'm resolving my code editor's errors or stuck at my monitor screen with no clue what the code in front of me really does , you can find me in the Football Ground ⚽ or in Gym 🏋️‍♂️.
+When I'm not resolving my code editor's errors or stuck at my monitor screen with no clue what the code in front of me really does , you can find me in the Football Ground ⚽ or in Gym 🏋️‍♂️.
 
 ## Contact
 
