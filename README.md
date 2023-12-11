@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate fullstack developer . I'm proficient in a variety of programming languages and technologies, including JavaScript, React, Node.js. I always strive to learn and explore new tools to stay up-to-date with the latest industry trends. 
+I'm a passionate fullstack enthisiast who is trying to learn and upgrade each day ... I try to code in a variety of programming languages and technologies, including JavaScript, React, Node.js. I always strive to learn and explore new tools to stay up-to-date with the latest industry trends. 
 
 ## Skills
 
@@ -19,7 +19,7 @@ I'm a passionate fullstack developer . I'm proficient in a variety of programmin
 
 ## Interests
 
-When I'm not coding, you can find me in the Football Ground ⚽ and Gym 🏋️‍♂️.
+When I'm resolving my code editor's errors or stuck at my monitor screen with no clue what the code in front of me really does , you can find me in the Football Ground ⚽ or in Gym 🏋️‍♂️.
 
 ## Contact
 
