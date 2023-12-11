@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate fullstack enthisiast who is trying to learn and upgrade each day ... I try to code in a variety of programming languages and technologies, including JavaScript, React, Node.js. I always strive to learn and explore new tools to stay up-to-date with the latest industry trends. 
+I'm a passionate fullstack enthusiast who is trying to learn and upgrade each day ... I try to code in a variety of programming languages and technologies, including JavaScript, React, Node.js. I always strive to learn and explore new tools to stay up-to-date with the latest industry trends. 
 
 ## Skills
 
