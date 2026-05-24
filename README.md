@@ -2,39 +2,56 @@
 
 # Hi there, I'm Joyesh 👋
 
-## About Me
+## 🚀 About Me
+I’m **Joyesh Debnath**, currently working with **Salesforce tech stacks**.  
+My expertise lies in building scalable solutions using Salesforce’s powerful ecosystem. I specialize in:
 
-I'm a passionate fullstack enthusiast who is trying to learn and upgrade each day ... I try to code in a variety of programming languages and technologies, including JavaScript, React, Node.js. I always strive to learn and explore new tools to stay up-to-date with the latest industry trends. 
+- **Apex** (Triggers, Classes, Async Apex)
+- **Lightning Web Components (LWC)**
+- **Aura Components**
+- **Salesforce Integrations** with 3rd‑party systems
+- **Security & Sharing** models
+- **Performance optimization** in Salesforce applications  
 
-## Skills
+Apart from Salesforce, I also have a knack for **React.js** and enjoy exploring modern web technologies.
 
+---
+
+## 🛠️ Skills
+- Salesforce Apex (Triggers, Async Apex, Integrations)
+- Lightning Web Components (LWC)
+- Aura Components
+- React.js
+- Angular
+- TypeScript
 - JavaScript
-- React
 - Node.js
 - Express.js
 - MongoDB
-- Angular
-- Typescript
-- JAVA
+- Java
 
-## Interests
+---
 
-When I'm not resolving my code editor's errors or stuck at my monitor screen with no clue what the code in front of me really does , you can find me in the Football Ground ⚽ or in Gym 🏋️‍♂️.
+## 🎯 Interests
+When I’m not architecting Salesforce solutions or debugging Apex recursion issues, you’ll find me:
+- On the **Football Ground** ⚽  
+- In the **Gym** 🏋️‍♂️  
+- Or tinkering with new frameworks and APIs.
 
-## Contact
+---
 
-- [LinkedIn](https://www.linkedin.com/in/joyesh-debnath-549b3b208/)
-- [Email](mailto:[itsmejoyeshdebnath26@gmail.com])
+## 📬 Contact
+- [LinkedIn](https://www.linkedin.com/in/joyesh-debnath-549b3b208/)  
+- [Email](mailto:itsmejoyeshdebnath26@gmail.com)
 
-## TODOs for 2024 🚀🚀🚀 : 
-- Next JS
-- JAVA Spring and backend development
-- Socket IO
-- Web RTC
-- +2 MERN Projects
-- Tailwind CSS
+---
 
+## 📌 Current Focus
+- Advanced Salesforce Integrations  
+- Async Apex patterns (Future, Queueable, Batch)  
+- React.js projects for side hustles  
+- Exploring modern UI frameworks like Tailwind CSS  
 
-Looking forward to connecting with you! 😄
+---
 
-
+Looking forward to connecting and collaborating! 😄
