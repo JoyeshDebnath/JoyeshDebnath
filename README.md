@@ -1,4 +1,4 @@
-![Joyesh Debnath Banner](https://user-images.githubusercontent.com/75598588/118513465-5cace200-b751-11eb-9add-840fca0ccc75.gif)
+<img width="612" height="418" alt="salesforce-banner-image" src="https://github.com/user-attachments/assets/4cfd6d94-a4fd-4ed3-b7a3-0edbc9a88309" />
 
 # Hi there, I'm Joyesh 👋
 
@@ -24,6 +24,7 @@ Apart from Salesforce, I also have a knack for **React.js** and enjoy exploring 
 - React.js
 - Angular
 - TypeScript
+
 - JavaScript
 - Node.js
 - Express.js
